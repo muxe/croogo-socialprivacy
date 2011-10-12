@@ -1,0 +1,7 @@
+A plugin for the cakePHP CMS Croogo (tested with Croogo v1.3.4).
+
+It displays share buttons for the social networks Facebook, Twitter and Google+ below each blog entry. It uses socialshareprivacy script by Heise (http://www.heise.de/extras/socialshareprivacy/), which hides social media buttons behind a second click to prevent auto-loading these buttons and thereby auto-transmitting data to third parties.
+
+To customize the look you can edit the /webroot/css/socialshareprivacy.css file and /views/elements/socialprivacy.ctp file. All javascript parameters are explained here (in german :() http://www.heise.de/extras/socialshareprivacy/
+
+To install this plugin put the socialprivacy folder into your /app/plugins/ folder on your webserver and activate the plugin in the admin area.

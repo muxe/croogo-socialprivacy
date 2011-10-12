@@ -1,0 +1,6 @@
+name: Socialprivacy
+description: Plugin to hide social media buttons behind a second click to prevent auto-loading these buttons and thereby auto-transmitting data to third parties. Uses socialshareprivacy script by Heise (http://www.heise.de/extras/socialshareprivacy/)
+
+author: Max Dörfler
+authorEmail: max@muxe.org
+authorUrl: http://muxe.org
